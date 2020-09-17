@@ -1,0 +1,6 @@
+{
+    "themes": [{
+        "name" : "digital.ai",
+        "types": [ "login" ]
+    }]
+}
